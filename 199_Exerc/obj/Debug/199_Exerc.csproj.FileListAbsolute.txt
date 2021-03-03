@@ -1,0 +1,7 @@
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\bin\Debug\199_Exerc.exe.config
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\bin\Debug\199_Exerc.exe
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\bin\Debug\199_Exerc.pdb
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\obj\Debug\199_Exerc.csprojAssemblyReference.cache
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\obj\Debug\199_Exerc.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\obj\Debug\199_Exerc.exe
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 14 - Interfaces\199_Exerc\199_Exerc\199_Exerc\obj\Debug\199_Exerc.pdb

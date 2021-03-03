@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace _199_Exerc
 {
@@ -10,6 +7,17 @@ namespace _199_Exerc
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Insira os Dados do Contrato: ");
+            Console.Write("Número: ");
+            int numero = int.Parse(Console.ReadLine());
+
+            Console.Write("Data (DD/MM/AAAA): ");
+            DateTime data = DateTime.ParseExact(Console.ReadLine(), "dd/mm/yyyy", CultureInfo.InvariantCulture);
+
+            Console.Write("Valor do Contato: ");
+            double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
         }
     }
 }
