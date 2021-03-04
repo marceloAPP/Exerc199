@@ -2,16 +2,19 @@
 
 namespace _199_Exerc.Services
 {
-    class PaypalService
+    class PaypalService : IServicoPagamentoOnline
     {
-        public double TaxaDePagamento(double quant)
-        {
-            return quant;
-        }
+        private const double PocentagemTaxa = 0.2;
+        private const double TaxaMensal = 0.1;
 
         public double Interesse(double quant, int meses)
         {
-            return  quant * meses;
+            return quant * PocentagemTaxa * meses;
+        }
+
+        public double TaxaDePagamento(double quant)
+        {
+            return quant * PocentagemTaxa;
         }
     }
 }
